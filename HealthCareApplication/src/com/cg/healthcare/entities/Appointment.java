@@ -7,8 +7,7 @@ public class Appointment implements Serializable{
 	//Hi
 	//Hello
 	//Rishab Saxena
-	//Karan Sehgal
-	//reddy
+	//Sarthak Parashe
 	
 	private int id;
 	
