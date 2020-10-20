@@ -4,10 +4,6 @@ import java.io.Serializable;
 import java.time.LocalDate;
 
 public class Appointment implements Serializable{
-	//Hi
-	//Hello
-	//Rishab Saxena
-	//Sarthak Parashe
 	
 	private int id;
 	
